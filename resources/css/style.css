@@ -1,0 +1,41 @@
+* {
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+#heading {
+    font-family:Verdana;
+    font-weight:normal;
+    font-size:50px;
+    text-align:center;
+    color:white;
+}
+p.download, a {
+color:aquamarine;
+font-size:16px;
+text-align:center;
+}
+.subtext {
+    font-family:Verdana;
+    font-weight:300;
+    font-size:42px;
+    text-align:center;
+}
+.description {
+    color:gray;
+    font-size:21px;
+}
+.center-vid {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center-img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.copyright {
+    text-align:right;
+    color:gray;
+}
